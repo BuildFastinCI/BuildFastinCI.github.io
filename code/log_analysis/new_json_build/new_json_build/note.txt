@@ -1,0 +1,7 @@
+https://api.travis-ci.org/v3/job/12878111/log.txt
+有mvn 关键字，也有ant 关键字，没有mvn test 关键字
+
+
+
+
+Retrying, 0 times fail to download job log http://api.travis-ci.org/job/529390731/log.txt
